@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>Bharath</title>
+  <title>Bharath-Intern</title>
   <link rel="stylesheet" type="text/css" href="task1.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to CMR Shopping Mall</h1>
+    <h1>GRT Jewellery</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -17,7 +17,7 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>Established in the year 1971 the brand Chandana Brothers was founded by Mr. Chandana Mohan Rao; and Director Mr. Mavuri Venkata Ramana has introduced the Brand CMR Shopping Mall. They changed the Shopping pattern in Andhra Pradesh by starting CMR Shopping Mall.</p>
+    <p>Established in the year 1964, was founded by GR Thangamalai has introduced the Brand CMR GRT Jewellers.Our modest genesis soon grew into a retail jewellery outlet loved by you-customers-who loving call GRT.</p>
   </section>
 
   <section id="features">
@@ -25,14 +25,12 @@
     <ul>
       <li>It is an enclosed shopping space.</li>
       <li>It is large multi-storeyed air-conditioned building.</li>
-      <li>It has shops on different floors.</li>
-      <li>It also consists of restaurants and even a cinema theatre.</li>
-      <li>It sells both branded and non-branded goods.</li>
+      <li>It has different types of jewellery.</li>
     </ul>
   </section>
 
   <footer>
-    <p>&copy; CMR Shopping Mall. All rights reserved.</p>
+    <p>&copy; GRT Jewellers. All rights reserved.</p>
   </footer>
 </body>
 </html>
